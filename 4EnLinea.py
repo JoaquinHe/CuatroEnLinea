@@ -7,7 +7,6 @@ def TableroVacio ():
         [0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0],
         ]
 
 def ContenidoColumna (nrocolumna, tablero):
