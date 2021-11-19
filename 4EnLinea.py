@@ -63,7 +63,7 @@ def DibujarTablero (tablero):
             else:
                 print(str(tablero[row][cell]) + ' ', end = '')
         print('')
-    print(" + - - - - - - + ")
+    print(" + - - - - - - - + ")
     #for x in tablero:
         #c=0
         #for a in x:
